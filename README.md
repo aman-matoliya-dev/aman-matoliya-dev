@@ -1,9 +1,9 @@
 
-<!-- ═══════════════ ANIMATED HEADER ═══════════════ -->
+<!-- ==================== KONNICHIWA HEADER ==================== -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:172554,100:312E81&height=190&section=header&text=KONNICHIWA%2C%20DEVELOPER!&fontSize=35&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=こんにちは%20%7C%20WELCOME%20TO%20MY%20CORNER%20OF%20GITHUB&descSize=12&descAlignY=58" alt="Konnichiwa, Developer animated banner" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:172554,100:312E81&height=190&section=header&text=KONNICHIWA%2C%20DEVELOPER!&fontSize=35&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=こんにちは%20%7C%20WELCOME%20TO%20MY%20CORNER%20OF%20GITHUB&descSize=12&descAlignY=58" alt="Konnichiwa, Developer" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2600&pause=900&color=79C0FF&center=true&vCenter=true&width=750&height=55&lines=Python+Backend+Development;Building+APIs+%26+AI-Powered+Applications;Exploring+LLMs+%26+AI+Agents;DSA+Practice%2C+One+Problem+at+a+Time" alt="Animated developer introduction" />
@@ -11,10 +11,10 @@
 
 <p>
   <a href="https://github.com/aman-matoliya-dev">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub profile" />
   </a>
   <a href="https://www.linkedin.com/in/aman-matoliya-933a343a7/">
-    <img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn profile" />
   </a>
 </p>
 
@@ -24,26 +24,22 @@
 
 ---
 
-<!-- ═══════════════ ABOUT ME ═══════════════ -->
-
 ## 🧑‍💻 About Me
 
 こんにちは! I'm **Aman Matoliya**, a Computer Science student at ITM Universe, Gwalior, India.
 
-I'm interested in building useful software, understanding how backend systems work, and exploring how AI can make applications more capable.
+I'm interested in building useful software, understanding backend systems, and exploring how AI can make applications more capable.
 
 - 🎓 Pursuing B.Tech in Computer Science.
 - 🐍 Learning and building with Python.
 - ⚙️ Exploring backend development and REST API design.
 - 🧠 Practicing Data Structures and Algorithms.
-- 🤖 Experimenting with LLMs, AI agents, and document-based retrieval.
-- 🚀 Building projects to turn concepts into working applications.
+- 🤖 Exploring LLMs, AI agents, and document retrieval.
+- 🚀 Turning what I learn into practical projects.
 
 > 「継続は力なり」 — *Consistency is strength.*
 
 ---
-
-<!-- ═══════════════ TECH STACK ═══════════════ -->
 
 ## 🛠️ Tech Stack
 
@@ -75,7 +71,7 @@ I'm interested in building useful software, understanding how backend systems wo
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
 </p>
 
-### 🗄️ Databases & Developer Tools
+### 🗄️ Databases & Tools
 
 <p>
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
@@ -94,76 +90,72 @@ I'm interested in building useful software, understanding how backend systems wo
 
 ---
 
-<!-- ═══════════════ FEATURED PROJECTS ═══════════════ -->
-
 ## 🚀 Featured Projects
 
 ### 🗳️ VoteEase — Mini Voting System
 
-A web-based voting application built as a college project.
+A Flask-based voting application developed as a college project.
 
 - 🔐 Authentication and voting workflows.
 - 🗳️ Election and voting functionality.
-- 📊 Administrative dashboard and results.
-- 🗄️ Database integration with SQLite.
+- 📊 Admin dashboard and results.
+- 🗄️ SQLite database integration.
 
-**Built with:** Python · Flask · SQLite · Bootstrap
+**Tech:** Python · Flask · SQLite · Bootstrap
 
-[![View VoteEase](https://img.shields.io/badge/Explore_VoteEase-181717?style=for-the-badge&logo=github)](https://github.com/aman-matoliya-dev/VoteEase)
+[![Explore VoteEase](https://img.shields.io/badge/Explore_VoteEase-181717?style=for-the-badge&logo=github)](https://github.com/aman-matoliya-dev/VoteEase)
 
 ---
 
 ### 🏠 ServiceLink — Home Services Platform
 
-A full-stack project focused on connecting users with home service providers.
+A full-stack platform focused on connecting users with home service providers.
 
-- ⚛️ React-based frontend.
+- ⚛️ React frontend.
 - 🔌 Django REST Framework backend.
 - 🗄️ SQLite database.
-- 🧩 Frontend/backend integration and booking workflows.
+- 🧩 Booking workflows and frontend/backend integration.
 
-**Built with:** React · Django REST Framework · SQLite
+**Tech:** React · Django REST Framework · SQLite
 
-[![View ServiceLink](https://img.shields.io/badge/Explore_ServiceLink-181717?style=for-the-badge&logo=github)](https://github.com/aman-matoliya-dev/ServiceLink)
+[![Explore ServiceLink](https://img.shields.io/badge/Explore_ServiceLink-181717?style=for-the-badge&logo=github)](https://github.com/aman-matoliya-dev/ServiceLink)
 
 ---
 
 ### 🤖 AGENT_FORGE — AI Agent Builder
 
-A private project exploring how configurable AI agents can use tools, conversation memory, and document knowledge.
+A private project exploring configurable AI agents, tool execution, conversation memory, and document-based knowledge retrieval.
 
 - 🧰 Tool registry for agent capabilities.
 - 🧠 Conversation memory and saved agents.
 - 📚 Document ingestion and retrieval.
 - 🔗 React frontend with a FastAPI backend.
 
-**Built with:** Python · FastAPI · React · TypeScript · SQLite · LLMs
+**Tech:** Python · FastAPI · React · TypeScript · SQLite · LLMs
 
-🔒 **Private repository — under development.**
+🔒 *Private repository — under development.*
 
 ---
 
-## 📈 GitHub Stats & Activity
+## 📊 GitHub Stats
 
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=aman-matoliya-dev&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub profile statistics" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-matoliya-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aman-matoliya-dev&layout=compact&theme=tokyonight&hide_border=true" alt="Most-used programming languages" />
 
 <br/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=aman-matoliya-dev&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-<br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aman-matoliya-dev&bg_color=0D1117&color=79C0FF&line=8B5CF6&point=FFFFFF&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
+<a href="https://git.io/streak-stats">
+  <img src="https://streak-stats.demolab.com/?user=aman-matoliya-dev&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</a>
 
 </div>
 
----
+> **Contribution activity:** GitHub's native contribution calendar is available on my [profile](https://github.com/aman-matoliya-dev). The third-party activity-graph deployment used previously is paused, so I've removed it rather than leave a broken image.
 
-<!-- ═══════════════ CURRENT FOCUS ═══════════════ -->
+---
 
 ## 🎯 Current Focus
 
@@ -171,16 +163,16 @@ A private project exploring how configurable AI agents can use tools, conversati
 - 🐍 Improving Python and backend engineering skills.
 - 🔌 Building and understanding REST APIs.
 - 🤖 Learning more about LLMs and AI agent architecture.
-- 🧪 Improving project quality, testing, and documentation.
+- 🧪 Improving testing, code quality, and documentation.
 - 💼 Preparing for software development internships.
 
 ---
 
 ## 🌱 Beyond the Code
 
-I believe good developers are built through curiosity, experimentation, and consistency.
+I believe good developers grow through curiosity, experimentation, and consistency.
 
-Every project teaches me something new. Every bug is an opportunity to understand a system more deeply. I'm working toward becoming a developer who can not only write code, but also design, debug, and maintain useful software.
+Every project teaches me something new. Every bug is an opportunity to understand a system more deeply. I'm working toward becoming a developer who can write, debug, and maintain useful software.
 
 ---
 
