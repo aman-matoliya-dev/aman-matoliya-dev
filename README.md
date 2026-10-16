@@ -147,13 +147,15 @@ A private project exploring configurable AI agents, tool execution, conversation
 
 <br/>
 
-<a href="https://git.io/streak-stats">
-  <img src="https://streak-stats.demolab.com/?user=aman-matoliya-dev&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</a>
+<p>
+  <a href="https://github.com/aman-matoliya-dev">
+    <img src="https://img.shields.io/badge/View-My_GitHub_Contributions-6366F1?style=for-the-badge&logo=github" alt="View my GitHub contributions" />
+  </a>
+</p>
 
 </div>
 
-> **Contribution activity:** GitHub's native contribution calendar is available on my [profile](https://github.com/aman-matoliya-dev). The third-party activity-graph deployment used previously is paused, so I've removed it rather than leave a broken image.
+> **Contribution activity:** Check my [GitHub profile](https://github.com/aman-matoliya-dev) for the native contribution calendar. I've removed the third-party streak counter because its displayed count didn't match what I expected, and I'd rather link to GitHub's own activity than show a potentially misleading number.
 
 ---
 
