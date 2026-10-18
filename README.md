@@ -26,7 +26,7 @@
 
 ## 🧑‍💻 About Me
 
-こんにちは! I'm **Aman Matoliya**, a Computer Science student at ITM Universe, Gwalior, India.
+こんにちは! I'm **Aman Matoliya**, a Computer Science student at ITM Gwalior, India.
 
 I'm interested in building useful software, understanding backend systems, and exploring how AI can make applications more capable.
 
